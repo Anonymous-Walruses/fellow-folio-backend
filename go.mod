@@ -3,6 +3,7 @@ module fellowfolio-backend
 go 1.14
 
 require (
+	firebase.google.com/go/v4 v4.0.0 // indirect
 	github.com/bradfitz/gomemcache v0.0.0-20190913173617-a41fca850d0b // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
 	github.com/garyburd/redigo v1.6.0 // indirect
